@@ -1,5 +1,6 @@
 def welcome
   # code #welcome here
+  welcome
 end
 
 def deal_card
